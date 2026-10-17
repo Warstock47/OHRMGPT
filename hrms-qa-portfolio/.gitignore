@@ -1,0 +1,9 @@
+target/
+test-output/
+screenshots/
+*.log
+.idea/
+.classpath
+.project
+.settings/
+.DS_Store

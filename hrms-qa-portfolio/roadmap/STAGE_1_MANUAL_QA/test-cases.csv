@@ -1,0 +1,6 @@
+TC_ID,Requirement_ID,Title,Preconditions,Steps,Expected_Result,Actual_Result,Status,Priority
+TC_AUTH_001,AUTH-001,Login page loads,Internet access,Open demo URL,Username password and Login controls visible,,Not Run,High
+TC_AUTH_002,AUTH-002,Invalid login rejected,Login page open,Enter invalid credentials and submit,Dashboard does not open,,Not Run,High
+TC_AUTH_003,AUTH-003,Password masked,Login page open,Type password,Characters are obscured,,Not Run,Medium
+TC_AUTH_004,AUTH-004,Keyboard navigation,Login page open,Use Tab and Enter,Controls accessible by keyboard,,Not Run,Medium
+TC_AUTH_005,AUTH-005,Protected route,Logged out,Open protected dashboard URL,Redirected to login or access denied,,Not Run,High

@@ -1,0 +1,6 @@
+Requirement_ID,Requirement,Test_Case_ID,Status,Notes
+AUTH-001,Login page loads,TC_AUTH_001,Not Run,
+AUTH-002,Invalid login rejected,TC_AUTH_002,Not Run,
+AUTH-003,Password masked,TC_AUTH_003,Not Run,
+AUTH-004,Keyboard navigation,TC_AUTH_004,Not Run,
+AUTH-005,Protected route guarded,TC_AUTH_005,Not Run,

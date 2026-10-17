@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HRMS QA Practice Suite" verbose="1">
+  <test name="API and UI">
+    <classes>
+      <class name="com.practice.hrms.tests.OrangeHRMLoginTest"/>
+      <class name="com.practice.hrms.api.JsonPlaceholderApiTests"/>
+    </classes>
+  </test>
+</suite>
